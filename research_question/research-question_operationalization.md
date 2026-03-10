@@ -1,7 +1,7 @@
 (research-question_operationalization)= 
 # Operationalisierung
 
-Die im [vorhergehenden Abschnitt](research-question_research-question) entwickelte Forschungsfrage zielt darauf, öffentliche Aufmerksamkeit und deren Veränderung über die Zeit zu messen. Um eine solche Messung möglich zu machen, muss zunächst eine Operationalisierung der Forschungsfrage erfolgen. "Operationalisierung bezeichnet den Prozess, ein Erkennungs- oder Messverfahren für ein theoretisches Konzept zu entwickeln." {cite:p}`krautter_operationalisierung_2023`.
+Die im [vorhergehenden Abschnitt](research-question_research-question) entwickelte Forschungsfrage zielt darauf, die öffentliche Aufmerksamkeit und deren Veränderung über die Zeit zu messen. Um eine solche Messung möglich zu machen, muss zunächst eine Operationalisierung der Forschungsfrage erfolgen. "Operationalisierung bezeichnet den Prozess, ein Erkennungs- oder Messverfahren für ein theoretisches Konzept zu entwickeln." {cite:p}`krautter_operationalisierung_2023`.
 
 Für die Operationalisierung unserer Forschungsfrage müssen insbesondere zwei Fragen adressiert werden:
 
