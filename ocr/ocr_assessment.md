@@ -19,9 +19,9 @@ Diese Übungsaufgaben dienen Ihrer Selbsteinschätzung und helfen Ihnen, das im 
 Sie können die Fragen in beliebiger Reihenfolge beantworten und auch mehrfach versuchen. 
 
 **So funktioniert es:**
-- Wählen Sie bei jeder Frage die Antwort(en), die Sie für richtig halten
-- Lesen Sie das Feedback zu den einzelnen Antwortoptionen sorgfältig durch
-- Die Erklärungen helfen Ihnen, Ihr Verständnis zu vertiefen – auch bei korrekten Antworten 
+- Wählen Sie bei jeder Frage die Antwort(en), die Sie für richtig halten.
+- Lesen Sie das Feedback zu den einzelnen Antwortoptionen sorgfältig durch.
+- Die Erklärungen helfen Ihnen, Ihr Verständnis zu vertiefen – auch bei korrekten Antworten.
 
 Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses Assessment, um Wissenslücken zu identifizieren und gegebenenfalls die entsprechenden Abschnitte des Kapitels noch einmal zu bearbeiten. 
 
@@ -31,7 +31,7 @@ Viel Erfolg!
 ````
 
 ## Frage 1
-(Wählen Sie alle zutreffenden Antworten aus)
+Wählen Sie alle zutreffenden Antworten aus.
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -92,7 +92,7 @@ display_quiz(multiple_choice_1, colors=colors.jupyterquiz)
 ```
 ## Frage 2
 
-Analysieren Sie die folgenden Aussagen zur OCR-Qualitätskontrolle.
+Beantworten Sie die folgenden Aussagen zur OCR-Qualitätskontrolle.
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -170,7 +170,7 @@ quiz.create_matching_quiz(
 )
 ```
 ## Frage 4
-(Wählen Sie alle zutreffenden Antworten aus)
+Wählen Sie alle zutreffenden Antworten aus.
 
 ### Frage 4(a)
 
@@ -352,7 +352,7 @@ display_quiz(question4, colors=colors.jupyterquiz)
 
 
 ## Frage 5
-(Wählen Sie alle zutreffenden Antworten aus)
+Wählen Sie alle zutreffenden Antworten aus.
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -481,7 +481,7 @@ display_quiz(question4, colors=colors.jupyterquiz)
 ```
 
 ## Frage 8
-(Wählen Sie alle zutreffenden Antworten aus)
+Wählen Sie alle zutreffenden Antworten aus.
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -669,7 +669,7 @@ Der F1-Score:
 ````
 
 ## Frage 11
-(Wählen Sie alle zutreffenden Antworten aus)
+Wählen Sie alle zutreffenden Antworten aus.
 
 ### Frage 11(a)
 
