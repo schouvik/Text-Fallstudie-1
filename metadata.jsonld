@@ -282,7 +282,7 @@
     },
     {
       "@type": "LearningResource",
-      "name": "OCR-Nachbereitung. Manuell, automatisch, LLMs",
+      "name": "OCR-Nachbearbeitung: manuell, automatisch, LLMs",
       "description": "In diesem Kapitel werden wir die Ergebnisse der OCR nachbearbeiten.",
       "url": "https://quadriga-dk.github.io/Text-Fallstudie-1/ocr_post_correction/post-correcting_intro.html",
       "timeRequired": "90min",
@@ -375,7 +375,7 @@
       ]
     }
   ],
-  "dcterms:tableOfContents": "- Präambel\n- Fragestellung und Operationalisierung. Einführung in die Fallstudie\n- Korpusaufbau. Auswählen, sammeln, dokumentieren\n- OCR. Von Bild zu Text\n- OCR-Nachbereitung. Manuell, automatisch, LLMs\n- Korpusverarbeitung. Von Strings zu Token\n- Korpusanalyse. Von Häufigkeiten zu Diagrammen\n- Reflexion\n- Epilog",
+  "dcterms:tableOfContents": "- Präambel\n- Fragestellung und Operationalisierung. Einführung in die Fallstudie\n- Korpusaufbau. Auswählen, sammeln, dokumentieren\n- OCR. Von Bild zu Text\n- OCR-Nachbearbeitung: manuell, automatisch, LLMs\n- Korpusverarbeitung. Von Strings zu Token\n- Korpusanalyse. Von Häufigkeiten zu Diagrammen\n- Reflexion\n- Epilog",
   "funding": "Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.\n\nFörderkennzeichen: 16DKZ2034",
   "learningResourceType": "Jupyter Book",
   "lrmi:learningResourceType": "Jupyter Book",
