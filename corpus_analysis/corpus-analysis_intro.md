@@ -34,12 +34,12 @@ Für die Ausführung einer digitalen Analyse, in diesem Fall der Analyse der Spa
 height:
 name: Flussdiagramm der Fallstudie
 ---
-Flussdiagramm der Fallstudie, das aktuelle Arbeitspaket ist hevorgehoben.
+Flussdiagramm der Fallstudie, das aktuelle Arbeitspaket ist hervorgehoben.
 ```
 
-Nachdem die Korpuserstellung und -anreicherung abgeschlossen ist, wird in diesem Kapitel zur Forschungsfrage zurückgekehrt. Es soll die öffentliche Aufmerksamkeit für die spanische Grippe im Zeitaum von 1918-1920 an Hand von Worthäufigkeiten derjenigen Wörter gemessen werden, die direkt oder indirekt auf die spanische Grippe verweisen. Es wird zuerst konzeptionell in die Frequenzanalyse eingeführt, dann wird die Analyse mit folgenden Schritten durchgeführt:
+Nachdem die Korpuserstellung und -anreicherung abgeschlossen ist, wird in diesem Kapitel zur Forschungsfrage zurückgekehrt. Es soll die öffentliche Aufmerksamkeit für die spanische Grippe im Zeitraum von 1918-1920 anhand von Worthäufigkeiten derjenigen Wörter gemessen werden, die direkt oder indirekt auf die spanische Grippe verweisen. Es wird zuerst konzeptionell in die Frequenzanalyse eingeführt, dann wird die Analyse mit folgenden Schritten durchgeführt:
 
-1. Erstellung eines Wortfelds, in dem grippenbezogenen Wörter gesammelt werden
+1. Erstellung eines Wortfelds, in dem grippenbezogene Wörter gesammelt werden
 2. Berechnung der Häufigkeiten dieses Wortfelds 
 3. Visuelle Darstellung der Häufigkeiten über Zeit durch ein Liniendiagramm. Das Diagramm hat verschiedene Stellschrauben:
  - Anzeige von absoluten oder relativen Häufigkeiten
