@@ -202,13 +202,13 @@
           "@type": "AlignmentObject",
           "targetName": "Die Entwicklung einer Digital Humanities-Fragestellung kann am Beispiel der Medienwellen-Forschung zur Spanischen Grippe nachvollzogen und erläutert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: 1 Planung"
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Der Operationalisierungsprozess kann am Beispiel der Spanischen Grippe nachvollzogen und auf andere Forschungsfragen übertragen werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: nicht anwendbar | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 3 Anwenden | Data Flow: nicht anwendbar"
         }
       ]
     },
@@ -224,7 +224,7 @@
           "@type": "AlignmentObject",
           "targetName": "Korpora können als geisteswissenschaftliche Forschungsobjekte definiert und deren wesentliche Merkmale beschrieben werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar"
         },
         {
           "@type": "AlignmentObject",
@@ -236,7 +236,7 @@
           "@type": "AlignmentObject",
           "targetName": "Die grundlegenden Metadatenschemata (Dublin Core, TEI, MODS, METS) und deren charakteristische Elemente für Korpora und Einzeldokumente können beschrieben werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar"
         },
         {
           "@type": "AlignmentObject",

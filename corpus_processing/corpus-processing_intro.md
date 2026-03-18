@@ -27,12 +27,9 @@ Skorinkin, D., Sluyter-Gäthje, H. & Trilcke, P. (2024). _Quantitative Analyse d
 `````
 
 
-```{admonition} Korpusverarbeitung mit Natural Language Processing
-:class: lernziele
-
-1. Die Grundkonzepte des Natural Language Processing können erklärt und die Funktionen von Tokenisierung und Lemmatisierung für die Textanalyse beschrieben werden.
-
-2. Die notwendigen Schritte zur automatischen Annotation eines Texts können aufgezählt und Vorteile der Tokenisierung gegenüber einfacheren Methoden der Worttrennung genannt werden.
+```{include} ../introduction/learning-outcomes.md
+:start-after: "<!-- START: Korpusverarbeitung. Von Strings zu Token -->"
+:end-before: "<!-- END: Korpusverarbeitung. Von Strings zu Token -->"
 ```
 
 Für die Ausführung einer digitalen Analyse, in diesem Fall die Analyse von Worthäufigkeiten über Zeit, wird ein über die Zeit gestreutes Korpus benötigt, das im txt-Format (oder einem anderen, computerlesbaren Format) vorliegt. Wir haben gezeigt, wie ein aus PDF-Dateien bestehendes Zeitungskorpus (siehe Kapitel ["Korpusaufbau"](corpus-collection_intro)) mittels OCR verarbeitet werden kann (siehe Kapitel ["OCR — Vom Bild zum Text"](ocr_intro)), sodass das resultierende Korpus aus Textdateien (mit Dateiendung '.txt') besteht.

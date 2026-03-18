@@ -27,19 +27,10 @@ Skorinkin, D., Sluyter-Gäthje, H. & Trilcke, P. (2024). _Quantitative Analyse d
 
 `````
 
-
-```{admonition} Ansätze des Korpusaufbaus und Erstellung basaler Metadaten
-:class: lernziele
-
-1. Korpora können als geisteswissenschaftliche Forschungsobjekte definiert und deren wesentliche Merkmale beschrieben werden.
-
-2. Die vier Hauptformate digitaler Texte (Bilddigitalisate, Plain Text, XML/TEI, CSV) können anhand ihrer charakteristischen Eigenschaften unterschieden und deren Vor- und Nachteile für spezifische Anwendungsfälle analysiert werden.
-
-3. Die grundlegenden Metadatenschemata (Dublin Core, TEI, MODS, METS) und deren charakteristische Elemente für Korpora und Einzeldokumente können beschrieben werden.
-
-4. Der schrittweise Prozess des praktischen Korpusaufbaus (Konzeptentwicklung, Metadatenerstellung und Datensammlung) kann am Beispiel eines Zeitungskorpus beschrieben werden.
+```{include} ../introduction/learning-outcomes.md
+:start-after: "<!-- START: Korpusaufbau. Auswählen, sammeln, dokumentieren -->"
+:end-before: "<!-- END: Korpusaufbau. Auswählen, sammeln, dokumentieren -->"
 ```
-
 
 Nachdem im [vorherigen Kapitel](../research_question/research-question_research-question) die **Fragestellung** dieser Fallstudie und deren **Operationalisierung** erläutert wurden, muss nun der Forschungsgegenstand im Sinne der Operationalisierung vorbereitet werden. In unserem Fall bedeutet dies, dass wir ein **Korpus zusammenstellen** müssen, anhand dessen sich (wie es in unserer Operationalisierung heißt) "die Texte in Berliner Tageszeitungen" untersuchen lassen. 
 
