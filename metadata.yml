@@ -86,12 +86,12 @@ chapters:
       am Beispiel der Medienwellen-Forschung zur Spanischen Grippe nachvollzogen und
       erläutert werden.
     competency: nicht anwendbar
-    data-flow: 1 Planung
+    data-flow: nicht anwendbar
     blooms-category: 2 Verstehen
   - learning-objective: Der Operationalisierungsprozess kann am Beispiel der Spanischen
       Grippe nachvollzogen und auf andere Forschungsfragen übertragen werden.
     competency: nicht anwendbar
-    data-flow: 2 Erhebung und Aufbereitung
+    data-flow: nicht anwendbar
     blooms-category: 3 Anwenden
 - title: Korpusaufbau. Auswählen, sammeln, dokumentieren
   url: https://quadriga-dk.github.io/Text-Fallstudie-1/corpus_collection/corpus-collection_intro.html
@@ -102,7 +102,7 @@ chapters:
   - learning-objective: Korpora können als geisteswissenschaftliche Forschungsobjekte
       definiert und deren wesentliche Merkmale beschrieben werden.
     competency: nicht anwendbar
-    data-flow: 2 Erhebung und Aufbereitung
+    data-flow: nicht anwendbar
     blooms-category: 2 Verstehen
   - learning-objective: Die vier Hauptformate digitaler Texte (Bilddigitalisate, Plain
       Text, XML/TEI, CSV) können anhand ihrer charakteristischen Eigenschaften unterschieden
@@ -114,7 +114,7 @@ chapters:
       METS) und deren charakteristische Elemente für Korpora und Einzeldokumente können
       beschrieben werden.
     competency: nicht anwendbar
-    data-flow: 2 Erhebung und Aufbereitung
+    data-flow: nicht anwendbar
     blooms-category: 2 Verstehen
   - learning-objective: Der schrittweise Prozess des praktischen Korpusaufbaus (Konzeptentwicklung,
       Metadatenerstellung und Datensammlung) kann am Beispiel eines Zeitungskorpus
