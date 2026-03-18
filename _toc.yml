@@ -5,7 +5,7 @@ options:
 chapters:
   - file: präambel/einführung
     sections:
-    - file: introduction/introduction_learning-outcomes
+    - file: introduction/learning-outcomes
     - file: introduction/introduction_requirements
   - file: research_question/research-question_intro
     sections:
