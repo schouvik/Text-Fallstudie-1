@@ -7,3 +7,4 @@ venv/
 .vscode
 **/.ipynb_checkpoints
 .claude/
+.schema_cache/

@@ -16,12 +16,9 @@ Mit Ihren Rückmeldungen können wir unser interaktives Lehrbuch gezielt an Ihre
 
 ```
 ````
-```{admonition} Grundlagen korpusbasierter geisteswissenschaftlicher Forschung
-:class: lernziele
-
-1. Die Entwicklung einer Digital Humanities-Fragestellung kann am Beispiel der Medienwellen-Forschung zur Spanischen Grippe nachvollzogen und erläutert werden.
-
-2. Der Operationalisierungsprozess kann am Beispiel der Spanischen Grippe nachvollzogen und auf andere Forschungsfragen übertragen werden.
+```{include} ../introduction/learning-outcomes.md
+:start-after: "<!-- START: Fragestellung und Operationalisierung. Einführung in die Fallstudie -->"
+:end-before: "<!-- END: Fragestellung und Operationalisierung. Einführung in die Fallstudie -->"
 ```
 
 In diesem Kapitel wird das Erkenntnisinteresse definiert, das die folgenden Schritte – Vorbereitung, Aufbereitung des Korpus und Analyse – steuert.

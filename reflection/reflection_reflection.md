@@ -18,10 +18,9 @@ Mit Ihren Rückmeldungen können wir unser interaktives Lehrbuch gezielt an Ihre
 ````
 Auch wenn es uns gelungen ist, das Ziel der Fallstudie zu erreichen und unsere eingangs formulierte [Forschungsfrage](research-question_research-question) nach den "Medienwellen" der Spanischen Grippe insofern exemplarisch zu beantworten, als wir tatsächlich eine [wellenartige Entwicklung der quantitativ verstandenen Aufmerksamkeit in ausgewählten Berliner Tageszeitungen](../corpus_analysis/corpus-analysis_diachronic-analysis) nachweisen konnten, gibt es mehrere Punkte, die abschließend kritisch zu reflektieren sind.
 
-```{admonition} Kritische Bewertung der Reichweite und Limitationen
-:class: lernziele
-
-1. Die methodischen Limitationen einer Digital Humanities-Fallstudie können benannt werden.
+```{include} ../introduction/learning-outcomes.md
+:start-after: "<!-- START: Reflexion -->"
+:end-before: "<!-- END: Reflexion -->"
 ```
 
 1. Auf das gesamte **Forschungssetting eines Digital Humanities-Projekts** gesehen, ist die durchgeführte Fallstudie von lediglich kleinem Umfang. Im Grunde fehlen ihr noch zwei Komponenten: zum einen die umfangreichen Kontextualisierungen in der medienhistorischen Epidemiologie; zum anderen die eingehende Auswertung der Ergebnisse der Analyse. So wäre denkbar, dass ausgehend von den Ergebnissen ein weiteres Forschungskorpus aufgebaut wird, das nur die Texte enthält, die sich explizit mit der Spanischen Grippe beschäftigen. Dieses Korpus könnte dann etwa in Hinblick auf Semantisierungen der Grippe untersucht werden, um so näher einzutauchen in die konkreten diskursiven Verhandlungen, mit denen die historische Pandemie begleitet wurde. 
